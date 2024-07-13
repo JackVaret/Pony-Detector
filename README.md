@@ -1,5 +1,5 @@
 # Pony-Detector
-
+For all of your Pony Detecting needs!
 # Description
 
 Training and usage of a theoretically SOTA Computer Vision model for the purpose of detecting ponies in frames of hit show My Little Pony: Friendship is Magic
